@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Language>
+	<Name value = "Rodese"/>
+	<Mode value = ""/>
+	<Alphabet a="ee" b="yu" c="k" d="ud" e="oo" f="l" g="do" h="tt" i="ts" j="m" k="kee" l="tu" m="ta" n="te" o="ai" p="to" q="ti" r="z" s="zz" t="re" u="ut" v="at" w="et" x="mu" y="nu" z="fe" />
+	<Replacers>
+		
+	</Replacers>
+	<Doublers>
+		
+	</Doublers>
+</Language>

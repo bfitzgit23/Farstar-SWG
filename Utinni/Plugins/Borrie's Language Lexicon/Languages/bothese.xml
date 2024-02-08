@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Language>
+	<Name value = "Bothese"/>
+	<Mode value = ""/>
+	<Alphabet a="ey" b="lb" c="cey" d="do" e="ee" f="fey" g="eg" h="mo" i="o" j="m" k="y" l="lo" m="me" n="yn" o="a" p="sep" q="q" r="ed" s="et" t="or" u="sk" v="vi" w="wo" x="sh" y="yy" z="ne" />
+	<Replacers>
+
+	</Replacers>
+	<Doublers>
+
+	</Doublers>
+</Language>

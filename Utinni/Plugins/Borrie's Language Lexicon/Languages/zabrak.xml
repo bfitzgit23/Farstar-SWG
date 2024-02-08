@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Language>
+	<Name value = "Zabrak"/>
+	<Mode value = ""/>
+	<Alphabet a="a" b="v" c="s" d="do" e="e" f="ef" g="gu" h="hu" i="i" j="je" k="ki" l="le" m="m" n="n" o="oo" p="p" q="qu" r="rr" s="si" t="t" u="u" v="v" w="w" x="ek" y="y" z="ez" />
+	<Replacers>
+		
+	</Replacers>
+	<Doublers>
+		
+	</Doublers>
+</Language>

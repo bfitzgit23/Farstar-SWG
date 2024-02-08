@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Language>
+	<Name value = "Shyriiwook"/>
+	<Mode value = ""/>
+	<Alphabet a="ra" b="r" c="oa" d="wa" e="wo" f="ww" g="rr" h="ac" i="ca" j="sh" k="or" l="an" m="cc" n="ww" o="oo" p="a" q="o" r="r" s="c" t="s" u="ha" v="h" w="o" x="a" y="r" z="uf" />
+	<Replacers>
+		
+	</Replacers>
+	<Doublers>
+		
+	</Doublers>
+</Language>

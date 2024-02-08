@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Language>
+	<Name value = "Ryl"/>
+	<Mode value = ""/>
+	<Alphabet a="fa" b="fe" c="feh" d="fah" e="oi" f="ff" g="f" h="hd" i="i" j="nk" k="kn" l="lk" m="lm" n="le" o="la" p="mk" q="no" r="sk" s="ks" t="y" u="yy" v="ry" w="l" x="yr" y="ll" z="y" />
+	<Replacers>
+		
+	</Replacers>
+	<Doublers>
+		
+	</Doublers>
+</Language>

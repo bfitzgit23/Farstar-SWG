@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Language>
+	<Name value = "Huttese"/>
+	<Mode value = ""/>
+	<Alphabet a="a" b="b" c="c" d="d" e="e" f="f" g="g" h="h" i="i" j="j" k="k" l="l" m="m" n="n" o="o" p="p" q="q" r="r" s="s" t="t" u="u" v="v" w="w" x="x" y="y" z="z" />
+	<Replacers>
+		<Replacer new="achuta" origin="hello"/>
+		<Replacer new="bo shuda" origin="salutations"/>
+		<Replacer new="chowbaso" origin="welcome"/>
+		<Replacer new="haku" origin="what"/>
+		<Replacer new="chuba" origin="hey"/>
+		<Replacer new="chut chut" origin="greetings"/>
+		<Replacer new="gooddé" origin="good"/>
+		<Replacer new="koona" origin="going"/>
+		<Replacer new="t'chuta" origin="somewhere"/>
+		<Replacer new="mee jewz ku" origin="goodbye"/>
+		<Replacer new="be" origin="in"/>
+		<Replacer new="cotma" origin="come"/>
+		<Replacer new="niuta" origin="please"/>
+		<Replacer new="alay" origin="late"/>
+		<Replacer new="an" origin="and"/>
+		<Replacer new="andoba" origin="another"/>
+		<Replacer new="ateema" origin="now"/>
+		<Replacer new="azalus" origin="dangerous"/>
+		<Replacer new="baatu baatu" origin="bother"/>
+		<Replacer new="bargon" origin="bargain"/>
+		<Replacer new="bata" origin="back"/>
+		<Replacer new="bedwana" origin="buy"/>
+		<Replacer new="binggona" origin="strained"/>
+		<Replacer new="bolla" origin="go"/>
+		<Replacer new="bosco" origin="looking"/>
+		<Replacer new="boska" origin="getout"/>
+		<Replacer new="bsha" origin="move"/>
+		<Replacer new="bu" origin="the"/>
+		<Replacer new="buttmalia" origin="bet"/>
+		<Replacer new="champio" origin="champion"/>
+		<Replacer new="che" origin="for"/>
+		<Replacer new="che copah" origin="price"/>
+		<Replacer new="cheeska" origin="cheat"/>
+		<Replacer new="chizk" origin="junk"/>
+		<Replacer new="chess ko" origin="careful"/>
+		<Replacer new="creespa" origin="crispy"/>
+		<Replacer new="da" origin="that"/>
+		<Replacer new="d'emperiolo" origin="imperial"/>
+		<Replacer new="teesaw" origin="cruiser"/>
+		<Replacer new="dwana" origin="sell"/>
+		<Replacer new="eniki" origin="okay"/>
+		<Replacer new="eniki" origin="ok"/>
+		<Replacer new="grancha" origin="great"/>
+		<Replacer new="hoohah" origin="them"/>
+		<Replacer new="hunka be" origin="naptime"/>
+		<Replacer new="hunka be" origin="nap"/>
+		<Replacer new="inkabunga" origin="incredible"/>
+		<Replacer new="jee" origin="i"/>
+		<Replacer new="jee-jee" origin="we"/>
+		<Replacer new="joppay" origin="when"/>
+		<Replacer new="jujuminmee" origin="kidnap"/>
+		<Replacer new="kava" origin="how"/>
+		<Replacer new="killee" origin="kill"/>
+		<Replacer new="mah" origin="my"/>
+		<Replacer new="bukee" origin="boy"/>
+		<Replacer new="mi" origin="i'm"/>
+		<Replacer new="mi" origin="im"/>
+		<Replacer new="chuga" origin="hungry"/>
+		<Replacer new="yarga" origin="thirsty"/>
+		<Replacer new="moocha" origin="steal"/>
+		<Replacer new="muni" origin="lover"/>
+		<Replacer new="na yoka" origin="joke"/>
+		<Replacer new="nee choo" origin="die"/>
+		<Replacer new="nibobo" origin="contract"/>
+		<Replacer new="nobata" origin="no"/>
+		<Replacer new="nudd" origin="forward"/>
+		<Replacer new="chaa" origin="march"/>
+		<Replacer new="panwa" origin="enjoy"/>
+		<Replacer new="rundee" origin="activate"/>
+		<Replacer new="skocha" origin="burnout"/>
+		<Replacer new="skocha" origin="exhaust"/>
+		<Replacer new="sleemo poy" origin="drool"/>
+		<Replacer new="tagwa" origin="yes"/>
+		<Replacer new="tee-tocky" origin="time"/>
+		<Replacer new="uba" origin="you"/>
+		<Replacer new="wamma" origin="pay"/>
+		<Replacer new="wata" origin="here"/>
+		<Replacer new="winkee" origin="sleep"/>
+		<Replacer new="winkee" origin="sleeping"/>
+		<Replacer new="yatuka" origin="move"/>
+		<Replacer new="yakuta" origin="moving"/>
+		<Replacer new="sleemo" origin="slimeball"/>
+		<Replacer new="kark" origin="fuck"/>
+		<Replacer new="karking" origin="fucking"/>
+		<Replacer new="echuta" origin="fuckoff"/>
+		<Replacer new="chut chut" origin="nevermind"/>
+		<Replacer new="dopa meekie" origin="double-crossing"/>
+		<Replacer new="dopa maskey" origin="two-faced"/>
+		<Replacer new="peedunkey" origin="punk"/>
+		<Replacer new="fierfek" origin="poison"/>
+		<Replacer new="stoopa" origin="stupid"/>
+		<Replacer new="stoopa" origin="fool"/>
+		<Replacer new="keepuna" origin="shoot"/>
+		<Replacer new="keepuna" origin="darn"/>
+		<Replacer new="keepuna" origin="damn"/>
+		<Replacer new="keepuna" origin="damnit"/>
+		<Replacer new="keepuna" origin="goddamn"/>
+		<Replacer new="koochoo" origin="idiot"/>
+		<Replacer new="kung" origin="scum"/>
+		<Replacer new="loca" origin="crazy"/>
+		<Replacer new="nagoola" origin="alright"/>
+		<Replacer new="marvalic" origin="marvel"/>
+		<Replacer new="plesodoro" origin="splendor"/>
+		<Replacer new="peetch goola" origin="toobad"/>
+		<Replacer new="goola" origin="too"/>
+		<Replacer new="peetch" origin="bad"/>
+		<Replacer new="poodoo" origin="poop"/>
+		<Replacer new="poodoo" origin="fodder"/>
+		<Replacer new="poodoo" origin="shit"/>
+		<Replacer new="schutta" origin="slut"/>
+		<Replacer new="schutta" origin="bitch"/>
+		<Replacer new="schutta" origin="whore"/>
+		<Replacer new="sweets" origin="sweetie"/>
+		<Replacer new="patogga" origin="pie"/>
+		<Replacer new="sweets patogga" origin="sweetiepie"/>
+		<Replacer new="wakamancha" origin="cowardly"/>
+		<Replacer new="backa" origin="backstage"/>
+		<Replacer new="cheeka" origin="woman"/>
+		<Replacer new="chik youngee" origin="dancer"/>
+		<Replacer new="duro" origin="duros"/>
+		<Replacer new="jeedai" origin="jedi"/>
+		<Replacer new="kajidii" origin="leader"/>
+		<Replacer new="kwee-kunee" origin="queen"/>
+		<Replacer new="lorda" origin="boss"/>
+		<Replacer new="lorda" origin="master"/>
+		<Replacer new="mikiyuna" origin="everybody"/>
+		<Replacer new="murishani" origin="bountyhunter"/>
+		<Replacer new="ootman" origin="outlander"/>
+		<Replacer new="ootmian" origin="outworlder"/>
+		<Replacer new="pateessa" origin="friend"/>
+		<Replacer new="shag" origin="slave"/>
+		<Replacer new="ulwan" origin="smuggler"/>
+		<Replacer new="ur-damin" origin="uncle"/>
+		<Replacer new="ur-damo" origin="nephew"/>
+		<Replacer new="wermo" origin="weirdo"/>
+		<Replacer new="wooky" origin="wookiee"/>
+		<Replacer new="banda" origin="band"/>
+		<Replacer new="boboqueequee" origin="hell"/>
+		<Replacer new="bootana" origin="garden"/>
+		<Replacer new="bunko" origin="palace"/>
+		<Replacer new="bunky dunko" origin="home"/>
+		<Replacer new="doma toma" origin="space"/>
+		<Replacer new="dowahga" origin="dowager"/>
+		<Replacer new="motai" origin="motel"/>
+		<Replacer new="hotai" origin="hotel"/>
+		<Replacer new="hutta" origin="jewel"/>
+		<Replacer new="planeeto" origin="planet"/>
+		<Replacer new="blastoh" origin="weapon"/>
+		<Replacer new="blastoh" origin="blaster"/>
+		<Replacer new="wanga" origin="gun"/>
+		<Replacer new="bota" origin="engines"/>
+		<Replacer new="bota" origin="engine"/>
+		<Replacer new="droi" origin="droid"/>
+		<Replacer new="dyst" origin="ship"/>
+		<Replacer new="e'nachu" origin="food"/>
+		<Replacer new="fierfek" origin="curse"/>
+		<Replacer new="fierfek" origin="curses"/>
+		<Replacer new="fierfek" origin="hex"/>
+		<Replacer new="gopptula" origin="ransom"/>
+		<Replacer new="kajidic" origin="clan"/>
+		<Replacer new="kajidic" origin="cartel"/>
+		<Replacer new="kajidic" origin="syndicate"/>
+		<Replacer new="makacheesa" origin="payoff"/>
+		<Replacer new="moulee-rah" origin="money"/>
+		<Replacer new="moulee-rah" origin="credits"/>
+		<Replacer new="moulee-rah" origin="credit"/>
+		<Replacer new="pankpa" origin="spaceship"/>
+		<Replacer new="pankpa" origin="starship"/>
+		<Replacer new="pawa" origin="power"/>
+		<Replacer new="rulya" origin="weapons"/>
+		<Replacer new="see'ybark" origin="sailbarge"/>
+		<Replacer new="stuka crispo" origin="deathwatch"/>
+		<Replacer new="tusawa" origin="bar"/>
+		<Replacer new="tusawa" origin="counter"/>
+		<Replacer new="wankee" origin="message"/>
+		<Replacer new="wontahumpa" origin="warranty"/>
+		<Replacer new="droida" origin="droids"/>
+		<Replacer new="kapa" origin="hands"/>
+		<Replacer new="tonta" origin="tentacles"/>
+		<Replacer new="tonka" origin="up"/>
+		<Replacer new="hotsa" origin="hot"/>
+		<Replacer new="gocola" origin="wine"/>
+		<Replacer new="howdunga" origin="burp"/>
+		<Replacer new="lickmoomoo" origin="dessert"/>
+		<Replacer new="sando" origin="sand"/>
+		<Replacer new="smak telia" origin="snack"/>
+		<Replacer new="puffee" origin="smoking"/>
+		<Replacer new="lumpa" origin="section"/>
+		<Replacer new="tee" origin="is"/>
+		<Replacer new="waffmula" origin="cake"/>
+		<Replacer new="yafullkee" origin="meal"/>
+		<Replacer new="yocola" origin="drink"/>
+		<Replacer new="huttuk" origin="hutt-size"/>
+		<Replacer new="koga" origin="bed"/>
+		<Replacer new="mooljee" origin="room"/>
+		<Replacer new="wabdah" origin="check"/>
+		<Replacer new="noleeya" origin="inside"/>
+		<Replacer new="nenoleeya" origin="out"/>
+		<Replacer new="nenoleeya" origin="outside"/>
+		<Replacer new="chawa" origin="race"/>
+		<Replacer new="choppa chawa" origin="podrace"/>
+		<Replacer new="poda" origin="pod"/>
+		<Replacer new="joggdu" origin="run"/>
+		<Replacer new="noobie" origin="newbie"/>
+		<Replacer new="noobie" origin="novice"/>
+		<Replacer new="nu" origin="betting"/>
+		<Replacer new="cheespa kreespa" origin="cooked"/>
+		<Replacer new="cheespa kreespa" origin="cook"/>
+		<Replacer new="ubana" origin="you'll"/>
+		<Replacer new="ubana" origin="youll"/>
+		<Replacer new="nauke" origin="never"/>
+		<Replacer new="wu" origin="win"/>
+		<Replacer new="fam" origin="crop"/>
+		<Replacer new="doosta" origin="duster"/>
+		<Replacer new="punchee" origin="pal"/>
+		<Replacer new="nobo" origin="zero"/>
+		<Replacer new="bo" origin="one"/>
+		<Replacer new="dopa" origin="two"/>
+		<Replacer new="duba" origin="three"/>
+		<Replacer new="fwanna" origin="four"/>
+		<Replacer new="k'wanna" origin="five"/>
+		<Replacer new="keeta" origin="six"/>
+		<Replacer new="goba" origin="seven"/>
+		<Replacer new="hunto" origin="eight"/>
+		<Replacer new="beeska" origin="nine"/>
+		<Replacer new="boboba" origin="ten"/>
+		<Replacer new="goboba" origin="eleven"/>
+		<Replacer new="jojoba" origin="twelve"/>
+		<Replacer new="soboba" origin="thirteen"/>
+		<Replacer new="koboba" origin="fourteen"/>
+		<Replacer new="foboba" origin="fifteen"/>
+		<Replacer new="donocha" origin="sixteen"/>
+		<Replacer new="honocha" origin="seventeen"/>
+		<Replacer new="bohonocha" origin="eighteen"/>
+		<Replacer new="dohonocha" origin="nineteen"/>
+		<Replacer new="duhonocha" origin="twenty"/>
+		<Replacer new="jujumon" origin="hundred"/>
+	</Replacers>
+	<Doublers>
+		
+	</Doublers>
+</Language>

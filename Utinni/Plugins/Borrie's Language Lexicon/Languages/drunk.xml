@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Language>
+	<Name value = "Drunk"/>
+	<Mode value = "drunk"/>
+	<Alphabet a="a" b="b" c="c" d="d" e="e" f="f" g="g" h="h" i="i" j="j" k="k" l="l" m="m" n="n" o="o" p="p" q="q" r="r" s="sh" t="t" u="u" v="v" w="w" x="x" y="y" z="z" />
+	<Replacers>
+		
+	</Replacers>
+	<Doublers>
+		<Doubler char="s" min="1" max="3"/>
+		<Doubler char="o" min="1" max="3"/>
+		<Doubler char="e" min="1" max="3"/>
+	</Doublers>
+</Language>

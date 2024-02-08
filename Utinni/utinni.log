@@ -1,0 +1,5 @@
+[15:13:47] [info] Creating detours
+[15:13:47] [info] Creating patches
+[15:13:47] [info] Loading C++ plugins
+[15:13:47] [info] Loading .NET plugins
+[15:13:47] [critical] Failed to start CLR

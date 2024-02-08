@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Language>
+	<Name value = "Ithorian"/>
+	<Mode value = ""/>
+	<Alphabet a="sa" b="sk" c="sst" d="iss" e="seh" f="so" g="tsk" h="si" i="sk" j="ssm" k="tst" l="ess" m="sss" n="oss" o="y" p="zz" q="kk" r="izz" s="t" t="z" u="klk" v="se" w="ss" x="slk" y="ss" z="lss" />
+	<Replacers>
+		
+	</Replacers>
+	<Doublers>
+		
+	</Doublers>
+</Language>

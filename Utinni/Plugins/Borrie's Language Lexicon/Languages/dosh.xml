@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Language>
+	<Name value = "Doshan"/>
+	<Mode value = ""/>
+	<Alphabet a="sa" b="sk" c="sst" d="slk" e="seh" f="so" g="se" h="si" i="sk" j="ssm" k="tst" l="tsk" m="sss" n="oss" o="y" p="ess" q="kk" r="klk" s="t" t="z" u="zz" v="iss" w="ss" x="lss" y="ss" z="izz" />
+	<Replacers>
+		
+	</Replacers>
+	<Doublers>
+		
+	</Doublers>
+</Language>

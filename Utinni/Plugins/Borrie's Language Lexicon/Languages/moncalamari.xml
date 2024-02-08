@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Language>
+	<Name value = "Mon Calamari"/>
+	<Mode value = ""/>
+	<Alphabet a="aa" b="uu" c="su" d="oh" e="eu" f="ll" g="u" h="hr" i="ee" j="ay" k="so" l="ir" m="om" n="on" o="ou" p="po" q="uq" r="ur" s="es" t="e" u="ul" v="al" w="aw" x="eh" y="ay" z="a" />
+	<Replacers>
+		
+	</Replacers>
+	<Doublers>
+		
+	</Doublers>
+</Language>

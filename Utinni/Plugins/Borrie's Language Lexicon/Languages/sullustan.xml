@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Language>
+	<Name value = "Sullustan"/>
+	<Mode value = ""/>
+	<Alphabet a="ey" b="eg" c="cey" d="do" e="y" f="fey" g="me" h="mo" i="o" j="m" k="ee" l="lo" m="lb" n="yn" o="a" p="ne" q="vi" r="ed" s="et" t="yy" u="or" v="q" w="wo" x="sh" y="sk" z="sep" />
+	<Replacers>
+		
+	</Replacers>
+	<Doublers>
+		
+	</Doublers>
+</Language>
