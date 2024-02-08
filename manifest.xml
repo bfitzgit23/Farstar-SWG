@@ -94,7 +94,7 @@
 		<TRE pos="29" file = "mtg_patch_001_appearance_01.tre"/> 
 	</TREOrder>
 	<ServerInfo>
-		<Details ip = "cu.farstar-reborn.com" port = "44453"/>
+		<Details ip = "172.234.19.253" port = "44453"/>
 	</ServerInfo>
 </ManifestFile>
 
