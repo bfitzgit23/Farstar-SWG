@@ -19,8 +19,8 @@
 		<File path = "Enhanced_SWGEmu_Saber_Trails_-_Valkyra.tre"    		 update="true" checksum = "67d977e6adf89c2839e31a6842c3839e" url = "https://download1648.mediafire.com/1muhxlyhavfg2LTRZ_Eo42FwI6djU01AeqqsPRc0mUpfAs8upHDc0mRnyiuoVJKIL0sdXvcx7rT_KAyvEO4QmW9U6I7cUMIljIaRKsn6ndx0JO8ZxTSEfg_ux6FVeZzztvupK1Y2T0lObvV8X9MfjJJ2UOrTy9zwetjqHT-YQij27Q/nuy25q054t8v0k8/Enhanced_SWGEmu_Saber_Trails_-_Valkyra.tre"/>
 		<File path = "jedi.tre"    		 	update="true" checksum = "4b9a533d30d810e68927a86335b2ee3e" url = "https://download1335.mediafire.com/etyi6ubk7nrgqQU9LpgPlgUM1ERNTEUx4WPAp5MsisTdlxQgiJBWkcCx0X41x1GpRxQilnUmH-UgYKCSvah9wfKnEyGIXHYy-9r1mZStdObQNFk9BpwvFAx4roW4cEMkrJw0cybXucjT-VIBBxNl7DOoNcJTuqq5P4QI5kqGsuz8XQ/s6hinon54q8id9g/jedi.tre"/>
 
-		<File path="SWGEmu.exe" 					 update="true" checksum="582f8324c2b280b6b1de1fd00180729d" url="http://www.launchpad2.net/SWGEmu/SWGEmu.exe"/>
-		<File path="SWGEmu_Setup.exe" 					 update="true" checksum="aefaeda4c825dae81e746fb5e2eb9d5a" url="http://www.launchpad2.net/SWGEmu/SWGEmu_Setup.exe"/>
+		<File path = "SWGEmu.exe" 					 update="true" checksum="582f8324c2b280b6b1de1fd00180729d" url="http://www.launchpad2.net/SWGEmu/SWGEmu.exe"/>
+		<File path = "SWGEmu_Setup.exe" 			         update="true" checksum="aefaeda4c825dae81e746fb5e2eb9d5a" url="http://www.launchpad2.net/SWGEmu/SWGEmu_Setup.exe"/>
 		<File path = "miles/mssdsp.flt"  				 update="true" checksum = "b88bf9c506cd612fc37b47ad2e1c84b6" url = "http://www.launchpad2.net/SWGEmu/miles/mssdsp.flt"/>
 		<File path = "miles/Msseax.m3d"  				 update="true" checksum = "b24028b6511fa3cb96bcbf1ef2838696" url = "http://www.launchpad2.net/SWGEmu/miles/Msseax.m3d"/>
 		<File path = "miles/mssmp3.asi"  				 update="true" checksum = "43bfc9015cf90c161567fb0c0acaf714" url = "http://www.launchpad2.net/SWGEmu/miles/mssmp3.asi"/>
