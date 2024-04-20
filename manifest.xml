@@ -10,60 +10,35 @@
 		<File path = "s206_r.dll"                        update="false" checksum = "c95f52d9d81c5d62e774f9f1250b6b76" url = "http://www.launchpad2.net/SWGEmu/s206_r.dll"/>
 		<File path = "s207_r.dll"                        update="false" checksum = "593574e730ef8eecbf42c9a440bdcbd6" url = "http://www.launchpad2.net/SWGEmu/s207_r.dll"/>
 		<File path = "dbghelp.dll"                       update="false" checksum = "21e77bcbe81c83284aeea5127c197718" url = "http://www.launchpad2.net/SWGEmu/dbghelp.dll"/>
-		<File path = "mtg_planets.tre"                   update="false" checksum = "7531403a209c952c4fdbd13a1d3aea69" url = "https://download1324.mediafire.com/pj4im4x1pz7g7NMrpfFzcK59jzaERYssuNHFa8xQzm4-hIq3-UIda5AYGy_tevLOPI_yihMIlA8akcMsK0tg7zYYI4drB0y7NIl6Lx0Whyvld-BBMqCA33bO1NGv6EzAvoNtEkG7CvSCyjtTiqGooTd6aASRd5ULzMkk8bgrtgksjQ/tt5lz127wn0vuck/mtg_planets.tre"/>
-		<File path = "pre-pub-9-jedi.tre"                update="false" checksum = "7531403a209c952c4fdbd13a1d3aea69" url = "https://download1528.mediafire.com/b2whk12axhrgbUrHL6q98VwGCnIoFr-43sqZnlmRf1BIj_-XHmD3r3N8Y6Vm-zmPDL0C7wE86M2M5O4Xd3_BxiGZG71I02-VTYj_paq6z-80oCZvcbExe69ShUJ2bCU8xQ0RigtSNMUePXtGsBX-0TNdG6wrqV0k7AfLNfnArTjMnQ/f6zafj4d1vv33dy/pre-pub-9-jedi.tre"/>	
+		<File path = "pre-pub-9-jedi.tre"                update="false" checksum = "44190313dc0ac5b6c9025021adfd94ce" url = "https://download1528.mediafire.com/ifrhnjqagc5gpVKLNIHLjOl8Ix_EeWPhpwtsUVrL3fizmSVcuWpTnMdsyXiQrIfXoxAqJtcW92SbsA9cAuVJ9ZQkjnQO5z9CcnHzy84tyJmzCHBE9U9PnMAHSqTkTYoaXHlLaWwZL84JavbPfbjyGX8aRimQaAJzlOXecKYnh641-w/f6zafj4d1vv33dy/pre-pub-9-jedi.tre"/>
+		<File path = "farstar_00.tre"                    update="false" checksum = "2f783065e5222d925d953ffea124a34b" url = "https://download1075.mediafire.com/gxo8pw4je3jgk0jWvi-Qdv1wG0HYOlEaGdLr_E6xJoZyfK62QDRQi6z6QbO8PnlFo3T0sl60glH3ThL9RkdeumnCZP6qLH6QrsGqG8pSV9-SFquw7mVX1uUrbrekvBMfduZs48H9dyk1ppMpZ3UO-KuDmiq72d-A1yJLXATWlwOiBQ/udt0o80zio2pxm3/farstar_00.tre"/>
+		<File path = "farstar_1.tre"                     update="false" checksum = "ab2bdfd7c59f3f42df1c96fc27c90f97" url = "https://download1593.mediafire.com/2404v6d1srwgwjRq4-2Tvkq7EbZpU820qNOSbkv6sTjVxEhNjzA_lh12ubLSGN5pVy8YarwxVYxPLLWV5XvCxMSK1w1Q9I5TSDb29aCF10gBWO_vOjOx4ZLb-VIajCt9beJGfhrsBrPkjyhuRJi21wTQc7VaNPlEqheVtXm0TLhFyQ/1h8r4g2e1lrm8x7/farstar_1.tre"/>
+		<File path = "farstar_2.tre"                     update="false" checksum = "6d962fb3f09120d918c4885178a0564f" url = "https://download1321.mediafire.com/0dondzwdiclgm4Z7Bku8fcwO8dFaRslz58B18g3ZtxqC08usQX4nr0hmhmrEt72ew8XIYLZzqrW0Q5F6Fu9Ni2PUT23XhVnoH4Ga5FHtaXGHIvcurGDjtc3dvl7zSdm5ECon8BVAAYME6hdoSkZ7J70M0SJYm3ZVXipLwVOr1f1EkQ/68clbruuvzjp7xj/farstar_2.tre"/>
+		<File path = "farstar_09.tre"                    update="false" checksum = "83473d785a2e7e4c95740d59efa67e05" url = "https://download1584.mediafire.com/36hsmttbrf5gCl9E-SwZME5ByZRARipxWVpA59_6tBQqODCh-LtvFMdAkIhq4wek9RrEs2O0pglQfbwJtB-zNO_x5rk-m7AD8Az2h3Rgr39xbRkCUoxI7HWY0cKC7TlPOWoshRbxKj_sfMlM4B3ukFh67v4BKAmL4rTCJp-_KLylig/zpzqf4zr076ycu8/farstar_09.tre"/>
+		<File path = "farstar_10.tre"    		 update="false" checksum = "34d1ba7a2f23b6927deab5e5f911b308" url = "https://download1532.mediafire.com/b60npmkk64vgMpPENcA70y1xEsRRMIeBwUiCm4cCbKsUOD70pNfi4fRMzAgY4jP5f5pywVOCkkeJyAOiFdoYtbnIrXbuhimsD4gz5GMy3Dwco4TGb5lIKgao42cQm6aUTQlKAKyQkyFbyPjaUdgpmKc90_KAFckPgzlAAHScinPT9g/x833pikk6mcmnxu/farstar_10.tre"/>			
+		<File path = "Enhanced_SWGEmu_Saber_Trails_-_Valkyra.tre"    		 update="false" checksum = "67d977e6adf89c2839e31a6842c3839e" url = "https://download1648.mediafire.com/1muhxlyhavfg2LTRZ_Eo42FwI6djU01AeqqsPRc0mUpfAs8upHDc0mRnyiuoVJKIL0sdXvcx7rT_KAyvEO4QmW9U6I7cUMIljIaRKsn6ndx0JO8ZxTSEfg_ux6FVeZzztvupK1Y2T0lObvV8X9MfjJJ2UOrTy9zwetjqHT-YQij27Q/nuy25q054t8v0k8/Enhanced_SWGEmu_Saber_Trails_-_Valkyra.tre"/>
+		<File path = "jedi.tre"    		 	update="false" checksum = "4b9a533d30d810e68927a86335b2ee3e" url = "https://download1335.mediafire.com/etyi6ubk7nrgqQU9LpgPlgUM1ERNTEUx4WPAp5MsisTdlxQgiJBWkcCx0X41x1GpRxQilnUmH-UgYKCSvah9wfKnEyGIXHYy-9r1mZStdObQNFk9BpwvFAx4roW4cEMkrJw0cybXucjT-VIBBxNl7DOoNcJTuqq5P4QI5kqGsuz8XQ/s6hinon54q8id9g/jedi.tre"/>
 
-		<File path = "SWGEmu.exe"                        update="false" checksum = "582f8324c2b280b6b1de1fd00180729d" url = "http://www.launchpad2.net/SWGEmu/SWGEmu.exe"/>
-		<File path = "SWGEmu_Setup.exe"                  update="false" checksum = "aefaeda4c825dae81e746fb5e2eb9d5a" url = "http://www.launchpad2.net/SWGEmu/SWGEmu_Setup.exe"/>
+		<File path="SWGEmu.exe" 					 update="false" checksum="582f8324c2b280b6b1de1fd00180729d" url="http://www.launchpad2.net/SWGEmu/SWGEmu.exe"/>
+		<File path="SWGEmu_Setup.exe" 					 update="false" checksum="aefaeda4c825dae81e746fb5e2eb9d5a" url="http://www.launchpad2.net/SWGEmu/SWGEmu_Setup.exe"/>
 		<File path = "miles/mssdsp.flt"  				 update="false" checksum = "b88bf9c506cd612fc37b47ad2e1c84b6" url = "http://www.launchpad2.net/SWGEmu/miles/mssdsp.flt"/>
 		<File path = "miles/Msseax.m3d"  				 update="false" checksum = "b24028b6511fa3cb96bcbf1ef2838696" url = "http://www.launchpad2.net/SWGEmu/miles/Msseax.m3d"/>
 		<File path = "miles/mssmp3.asi"  				 update="false" checksum = "43bfc9015cf90c161567fb0c0acaf714" url = "http://www.launchpad2.net/SWGEmu/miles/mssmp3.asi"/>
 		<File path = "miles/msssoft.m3d" 				 update="false" checksum = "3e9029826d8cb962874584ab795a9d31" url = "http://www.launchpad2.net/SWGEmu/miles/msssoft.m3d"/>
 		
-		<File path = "Enhanced_SWGEmu_Saber_Trails_-_Valkyra.tre"        update="false"  checksum = "276d8c254417e1de1178e3f693a8720f" url = "https://download1648.mediafire.com/y5zwcsi1qm3g7Uf2RIxkBm7f-sxle62MbsCEMCEoy0qAWtNGqZHUB3MRofkvHVAgFooxp4JDALtTbgCmLKPOm9uvyT19vu6Jrq9JTO4H5itbNDHecdconsHqUvgCQn8P-Jxw1CDnmD1XMBEe6Hox8C3c61UmXdKr7MwMfLMWjnk0WQ/nuy25q054t8v0k8/Enhanced_SWGEmu_Saber_Trails_-_Valkyra.tre"/>
-		<File path = "species.tre"               update="false"  checksum = "6e407150b3ff6c7e87d3096ed5184a5c" url = "https://download1532.mediafire.com/4jdlqfu5peogb99VE7pdQcgJLLNGVOIyEiMCBifdf5feSOsTYb7PMt_2Xlg8jSZNb5IhtUM8jJ_YxYxJh_xNp6bJP80xap_HNQPvYJ9OMHiaPqPuL9VICRrw6kVLzOFpdFYBJ9C39WDlXYgnsFirezPUFeGInbdYCfSKWFaWkJ3oVQ/akv14koxfv160zt/species.tre"/>
-		
 	</Files>
-	<TREOrder count = "64">
-		<TRE pos="64" file = "pre-pub-9-jedi.tre"/>	
-		<TRE pos="63" file = "flurry10.tre"/>
-		<TRE pos="62" file = "flurry9.tre"/>
-		<TRE pos="61" file = "flurry8.tre"/>
-		<TRE pos="60" file = "flurry7.tre"/>
-		<TRE pos="59" file = "flurry6.tre"/>
-		<TRE pos="58" file = "flurry5.tre"/>
-		<TRE pos="57" file = "flurry4.tre"/>
-		<TRE pos="56" file = "flurry3.tre"/> 
-		<TRE pos="55" file = "flurry2.tre"/>
-		<TRE pos="54" file = "flurry1.tre"/>
-		<TRE pos="53" file = "Enhanced_SWGEmu_Saber_Trails_-_Valkyra.tre" tag = "mod_sabertrials"/> 
-		<TRE pos="52" file = "species.tre" tag = "mod_newspecies"/>
-		<TRE pos="51" file = "mtg_planets.tre"/>  
-		<TRE pos="50" file = "mtg_patch_023.tre"/> 
-		<TRE pos="49" file = "mtg_patch_022.tre"/> 
-		<TRE pos="48" file = "mtg_patch_021.tre"/> 
-		<TRE pos="47" file = "mtg_patch_019.tre"/> 
-		<TRE pos="46" file = "mtg_patch_018.tre"/> 
-		<TRE pos="45" file = "mtg_patch_017.tre"/> 
-		<TRE pos="44" file = "mtg_patch_016.tre"/> 
-		<TRE pos="43" file = "mtg_patch_015.tre"/> 
-		<TRE pos="42" file = "mtg_patch_014.tre"/> 
-		<TRE pos="41" file = "mtg_patch_013_configurable_02.tre"/> 
-		<TRE pos="40" file = "mtg_patch_012_configurable_01.tre"/> 
-		<TRE pos="39" file = "mtg_patch_011_files_01.tre"/> 
-		<TRE pos="38" file = "mtg_patch_010_object_01.tre"/> 
-		<TRE pos="37" file = "mtg_patch_009_Shader_01.tre"/> 
-		<TRE pos="36" file = "mtg_patch_008_texture_04.tre"/> 
-		<TRE pos="35" file = "mtg_patch_007_texture_03.tre"/> 
-		<TRE pos="34" file = "mtg_patch_006_texture_02.tre"/> 
-		<TRE pos="33" file = "mtg_patch_005_texture_01.tre"/> 
-		<TRE pos="32" file = "mtg_patch_004_appearance_04.tre"/> 
-		<TRE pos="31" file = "mtg_patch_003_appearance_03.tre"/> 
-		<TRE pos="30" file = "mtg_patch_002_appearance_02.tre"/> 
-		<TRE pos="29" file = "mtg_patch_001_appearance_01.tre"/> 
+	<TREOrder count = "60">
+		<TRE pos="36" file = "jedi.tre"/>
+		<TRE pos="35" file = "Enhanced_SWGEmu_Saber_Trails_-_Valkyra.tre"/>
+		<TRE pos="34" file = "pre-pub-9-jedi.tre"/> 
+		<TRE pos="33" file = "farstar_10.tre"/> 
+		<TRE pos="32" file = "farstar_09.tre"/> 
+		<TRE pos="31" file = "farstar_2.tre"/> 
+		<TRE pos="30" file = "farstar_1.tre"/> 
+		<TRE pos="29" file = "farstar_00.tre"/> 	
 	</TREOrder>
 	<ServerInfo>
-		<Details ip = "172.234.19.253" port = "44453"/>
+		<Details ip = "74.208.235.214" port = "44453"/>
 	</ServerInfo>
 </ManifestFile>
 
